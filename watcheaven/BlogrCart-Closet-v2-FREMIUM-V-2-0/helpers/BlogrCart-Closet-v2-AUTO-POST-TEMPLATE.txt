@@ -1,0 +1,38 @@
+This is the short description for any product post. Write a short description for the product here in not less than 300 words. This will create a unique content for your product - giving the extra boost from search engine results.<br />
+<br />
+The first image will always be the product thumbnail image. Images after wards will be grouped &amp; displayed as supporting thumbnail images. Images inside the box section below will not be grouped.<br />
+<br />
+Edit &nbsp;accordingly the product data ie prices, options, before price using the date section below. For options values refer HTML comments included.<br />
+<br />
+Use "Jump Break" to prevent Blogger auto pagination restrictions to display posts on single pages. By default the "Jump Break" has been assigned.<br />
+<br />
+Edit &amp; remove sample texts her if not in use.<br />
+<br />
+Option size &amp; color available on PRO versions. Get 1 now!<br />
+<br />
+<table border="1" cellpadding="5" class="product-data" rules="all"><tbody>
+<tr>    <td class="item_price">$ 85.00</td></tr>
+<tr><td class="label-quantity"><input class="form-control item_quantity" size="2" type="text" value="1" /> <a class="btn btn-default item_add btn-lg" href="javascript:;">Add to Cart</a></td></tr>
+</tbody></table>
+<!--more--><br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://3.bp.blogspot.com/-zIiQP6ukZ8c/VH0hykKUfnI/AAAAAAAAMv0/Z2nPVJQiU7Q/s1600/GrassGreen_W_F.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="640" src="http://3.bp.blogspot.com/-zIiQP6ukZ8c/VH0hykKUfnI/AAAAAAAAMv0/Z2nPVJQiU7Q/s640/GrassGreen_W_F.jpg" width="394" /></a></div>
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://1.bp.blogspot.com/-AE1dmV3kNXA/U1gFvJZhOeI/AAAAAAAALqE/mTQB_cUJg88/s1600/product-placeholder.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="http://1.bp.blogspot.com/-AE1dmV3kNXA/U1gFvJZhOeI/AAAAAAAALqE/mTQB_cUJg88/s1600/product-placeholder.jpg" /></a></div>
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://2.bp.blogspot.com/-uXb8NpyJ9l8/UhtnFLzheGI/AAAAAAAAHFU/LrWfFeCUmzY/s1600/product_placeholder.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="320" src="http://2.bp.blogspot.com/-uXb8NpyJ9l8/UhtnFLzheGI/AAAAAAAAHFU/LrWfFeCUmzY/s320/product_placeholder.jpg" width="320" /></a></div>
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://1.bp.blogspot.com/-AE1dmV3kNXA/U1gFvJZhOeI/AAAAAAAALqE/mTQB_cUJg88/s1600/product-placeholder.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="http://1.bp.blogspot.com/-AE1dmV3kNXA/U1gFvJZhOeI/AAAAAAAALqE/mTQB_cUJg88/s1600/product-placeholder.jpg" /></a></div>
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://2.bp.blogspot.com/-uXb8NpyJ9l8/UhtnFLzheGI/AAAAAAAAHFU/LrWfFeCUmzY/s1600/product_placeholder.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="320" src="http://2.bp.blogspot.com/-uXb8NpyJ9l8/UhtnFLzheGI/AAAAAAAAHFU/LrWfFeCUmzY/s320/product_placeholder.jpg" width="320" /></a></div>
+<table border="1" cellpadding="5" class="product-detail-section" rules="all"><tbody>
+<tr><td>This is a&nbsp;<code>tab-section</code>&nbsp;Edit the text within this box/table in Blogger editor easily &amp; this panel automatically displays &amp; styled automatically on product pages. Use Blogger "Remove Formatting" functions to remove copied &amp; paste texts alignment, fonts, text colours &amp; text styles etc.<br />
+<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://1.bp.blogspot.com/-AE1dmV3kNXA/U1gFvJZhOeI/AAAAAAAALqE/mTQB_cUJg88/s1600/product-placeholder.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" height="200" src="http://1.bp.blogspot.com/-AE1dmV3kNXA/U1gFvJZhOeI/AAAAAAAALqE/mTQB_cUJg88/s200/product-placeholder.jpg" width="200" /></a></div>
+Images included inside this box will not be grouped as product image display at product pages.<br />
+<br />
+Float images left, right &amp; center to help align &amp; style this section here.<br />
+<br />
+This section is very useful in providing informational details for a particular product. Use this as your standard/repeated product size &amp; dimensions section. Adding a table within this section is not semantic &amp; will break the product display layout styles.</td></tr>
+</tbody></table>
