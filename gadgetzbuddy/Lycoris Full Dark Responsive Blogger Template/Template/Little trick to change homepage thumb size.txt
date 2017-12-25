@@ -1,0 +1,16 @@
+If you want to change the default size to original image thumbnail size without cropping, find and change the code below
+
+var image_width=320;
+var image_height=220;
+
+
+to
+
+var image_width=0;
+var image_height=0;
+
+vice versa
+
+thats it!
+
+Enjoy your time.

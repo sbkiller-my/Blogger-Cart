@@ -1,0 +1,16 @@
+<div id='subscribe-box'>
+              <div class='title'>
+               Subscribe Here
+              </div>
+                 <p>Sign up here with your email.</p>
+             <div class='emailfield'>
+              <form action='http://feedburner.google.com/fb/a/mailverify' method='post' onsubmit='window.open(&apos;http://feedburner.google.com/fb/a/mailverify?uri=Lunafy&apos;, &apos;popupwindow&apos;, &apos;scrollbars=yes,width=550,height=520&apos;);return true' target='popupwindow'>
+               <input type='text' name='name' onblur='if (this.value == &quot;&quot;) {this.value = &quot;Your Name&quot;;}' onfocus='if (this.value == &quot;Your Name&quot;) {this.value = &quot;&quot;;}' value='Your Name'/>
+               <input type='text' name='email' onblur='if (this.value == &quot;&quot;) {this.value = &quot;Your Email&quot;;}' onfocus='if (this.value == &quot;Your Email&quot;) {this.value = &quot;&quot;;}' value='Your Email'/>
+<input name='uri' type='hidden' value='Lunafy'/>
+<input name='loc' type='hidden' value='en_US'/>
+                <input class='submitbutton' type='submit' value='Subscribe Now!'/>
+
+              </form>
+             </div>
+</div>
