@@ -1,0 +1,7 @@
+<p class='lead'>
+Add in about us text at homepage using Blogger Widget. Add a button or link easily using Bootstrap3 built in classes. An example is given at theme tutorial page.
+</p>
+<p>
+This about us section uses Blogger Image Widget to add as a background &amp; a HTML widget to insert the text. 
+Go crazy editing from Blogger Layout. Add text &amp; links using the built-in text editor. Use Bootstrap classes to enhance buttons &amp; links. Use font awesome classes to add in icons easily!
+</p>

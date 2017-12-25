@@ -1,0 +1,59 @@
+<table border="1" cellpadding="5" class="product-image" rules="all">
+  <tbody>
+<tr>
+  <td class="thumb_image"><div class="separator" style="clear: both; text-align: center;">
+<a href="http://4.bp.blogspot.com/-kJ3Ob6f1cgI/VH0hyOHlDaI/AAAAAAAAMvw/20BmxIa6eaY/s1600/GrassGreen_W_B.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="http://4.bp.blogspot.com/-kJ3Ob6f1cgI/VH0hyOHlDaI/AAAAAAAAMvw/20BmxIa6eaY/s1600/GrassGreen_W_B.jpg" /></a>
+  </div>
+</td>
+  </tr>
+</tbody>
+</table>
+<table border="1" cellpadding="5" class="product-description" rules="all">
+  <tbody>
+<tr class="label-description">
+  <td class="item_description">This is the short description for any product post. Write a short description for the product here in not less than 350 words. 
+This will create a unique content for your product hence giving the extra boost from search engine results. 
+Use Blogger "Remove Formatting" functions to remove copied &amp; paste texts alignment, fonts, text colour &amp; text styles.
+<br />
+<br />
+Use table #1 (above) for product Main Image. Insert Image &amp; removing using Blogger editor features.<br />
+<br />
+Use table #2 (current) for product descriptions &amp; texts.<br />
+<br />
+Use table #3 (below) to add in supporting images. Please insure that the thumbnail images is set to small.<br />
+<br />
+Use "Jump Break" AFTER table #2 (current) or BEFORE table #3 to prevent Auto Pagination. By default the "Jump Break has been assigned.<br />
+<br />
+<b>Edit &amp; remove sample texts if not in use.</b><br />
+Option size &amp; colour only available on PRO versions. Get 1 now! 
+      </td>
+    </tr>
+</tbody>
+</table>
+<table border="1" cellpadding="5" class="product-price" rules="all">
+  <tbody>
+<tr><td class="item_price h4">$ 32.00</td></tr>
+<tr class="label-add"><td><label>Qty:</label>
+  <input class="item_quantity form-control" size="1" type="text" value="1" />
+    <a class="item_add btn btn-default btn-custom" href="javascript:;">Add to Cart</a>
+  </td>
+</tr>
+<tr class="sr-only"><td class="item_status">On Sale</td></tr>
+</tbody>
+</table>
+<!--more--><br />
+<table border="1" cellpadding="5" class="product-thumbnail" rules="all">
+  <tbody>
+<tr>
+  <td><div class="separator" style="clear: both; text-align: center;">
+<a href="http://3.bp.blogspot.com/-3RPbDZ_GGiI/VDpezDK3z7I/AAAAAAAAMUs/bdtOFg15NL0/s1600/GrassGreen_M_B.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="200" src="http://3.bp.blogspot.com/-3RPbDZ_GGiI/VDpezDK3z7I/AAAAAAAAMUs/bdtOFg15NL0/s200/GrassGreen_M_B.jpg" width="128" /></a></div>
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://2.bp.blogspot.com/-zidcGVC41ak/VDpezKz2awI/AAAAAAAAMU4/EPjS-Yp_KKs/s1600/GrassGreen_M_S.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="200" src="http://2.bp.blogspot.com/-zidcGVC41ak/VDpezKz2awI/AAAAAAAAMU4/EPjS-Yp_KKs/s200/GrassGreen_M_S.jpg" width="88" /></a></div>
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://3.bp.blogspot.com/-8IdFwTQY81M/VDpmfEYziDI/AAAAAAAAMVY/xKoJZ73Z7rs/s1600/_DarkChocolate__________________M_F.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="200" src="http://3.bp.blogspot.com/-8IdFwTQY81M/VDpmfEYziDI/AAAAAAAAMVY/xKoJZ73Z7rs/s200/_DarkChocolate__________________M_F.jpg" width="139" /></a></div>
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://4.bp.blogspot.com/-8MRRt25wlBY/VDpmfi_zhHI/AAAAAAAAMVc/tm4AWNoUsGg/s1600/DarkChocolate_M_B.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="200" src="http://4.bp.blogspot.com/-8MRRt25wlBY/VDpmfi_zhHI/AAAAAAAAMVc/tm4AWNoUsGg/s200/DarkChocolate_M_B.jpg" width="124" /></a></div>
+</td>
+  </tr>
+</tbody>
+</table>

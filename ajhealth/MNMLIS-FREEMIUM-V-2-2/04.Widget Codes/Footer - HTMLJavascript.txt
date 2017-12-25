@@ -1,0 +1,10 @@
+<address>
+  <p><strong>Boutique &amp; Store</strong></p>
+  <p>Lot 123, Section 10, Some Street, 123456 Somewhere, State COUNTRY.</p>
+  <p><strong>Wholesale:</strong></p>
+  <p> 1234G, Ground Floor, Some Street, 123456 Town, State COUNTRY.</p>
+  <p><a href='tel:12345678'><i class='fa fa-mobile fa-fw fa-lg'></i><i class='fa fa-whatsapp fa-fw fa-lg'></i> 012-3456789</a></p>
+  <p><a href='tel:6012345678'><i class='fa fa-phone fa-fw fa-lg'></i> 011-12345678</a></p>
+  <br/>
+  <p><a href='email@mail.com'><i class='fa fa-envelope fa-fw fa-lg'></i> hello[at]blogrcart[dot]com</a></p>
+</address>

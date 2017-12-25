@@ -1,0 +1,93 @@
+shipping = + RM20
+
+tax = 6%
+
+paypal:ajhealthbiz@gmail.com:bola_145
+
+
+<style>
+#bloggerspicesflotads {
+height:30px;
+width:auto;
+background: #333333 url('..');
+background-repeat:repeat-x;
+text-align:left;
+padding-top:4px;
+}
+#bsadsbase{
+height:600;
+margin:0auto;
+width:170px;
+background:#fff;
+border-bottom:2px #333333 solid;
+border-right:2px #333333 solid;
+border-left:2px #333333 solid;
+text-align:center;
+padding:4px;
+}
+#bsadsheadline{
+opacity:1.0;
+height:auto;
+width:auto;
+position:fixed;
+top:65px;
+left:10px;
+border-bottom:1px #005094 solid;
+border-bottom:0px blue solid;
+color:#333;
+padding:0px;
+z-index:1001;
+font-size:13px;}
+</style>
+<script type="text/javascript">
+function getValue()
+{
+document.getElementById("bsadsheadline").style.display = 'none';
+}
+</script>
+<div id="bsadsheadline">
+<div id="bloggerspicesflotads">
+<span style="color:#fff;font-size:13px;font-weight:bold;text-shadow:black 0.1em 0.1em 0.1em"></span>
+<span style="color:#fff;font-size:13px;font-weight:bold;text-shadow:black 0.1em 0.1em 0.1em;float:right;padding-top:3px;padding-right:10px"><a onclick="getValue()">close(x)</a></span>
+</div>
+<div id="bsadsbase">
+<h3></h3>
+<p align="left"><h3></h3></p>
+<p>                                                                                                                           
+<!-- nuffnang -->
+<script type="text/javascript">
+        nuffnang_bid = "d3bad6796c2e27fe0813cc6125297146";
+        document.write( "<div id='nuffnang_ss'></div>" );
+        (function() {	
+                var nn = document.createElement('script'); nn.type = 'text/javascript';    
+                nn.src = '//eccdn1.synad3.nuffnang.com.my/ss.js';    
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(nn, s.nextSibling);
+        })();
+</script>
+<!-- nuffnang-->
+                        
+<br/></p></div></div>
+
+
+NO 24, Kompleks PKNS Shah Alam ,11, 
+Persiaran Sultan, Seksyen 14, 
+40000 Shah Alam, Selangor
+
+
+<footer class='footer-wrapper'>
+<div class='row'>
+  <p>kuda</p></div>
+	<div class='container container-custom'>
+	<div class='row'>
+      <b:section class='footer col-sm-3' id='footer1' name='Footer1' showaddelement='yes'/>
+      <b:section class='footer col-sm-3' id='footer2' name='Footer2' showaddelement='yes'/>
+      <b:section class='footer col-sm-3' id='footer3' name='Footer3' showaddelement='yes'/>
+      <b:section class='footer col-sm-3' id='footer4' name='Footer4' showaddelement='yes'/>
+    </div>
+    <div class='credits'>
+     
+	  <p>&#169;<script>document.write(new Date().getFullYear())</script> <a expr:alt='data:blog.title' expr:href='data:blog.homepageUrl'><span class='brand-font brand-color'><data:blog.title/></span></a></p>
+	  <p >Designed &amp; developed by Aten Jyka// <a href='#btn-cart' id='backtotop'><b>Back to Top <i class='fa fa-angle-up fa-lg'/></b></a></p>
+	</div>
+    </div>
+    </footer>
