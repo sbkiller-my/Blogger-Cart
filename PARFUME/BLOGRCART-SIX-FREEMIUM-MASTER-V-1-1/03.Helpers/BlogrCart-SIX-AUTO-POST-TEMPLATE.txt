@@ -1,0 +1,41 @@
+Edit product description here. If copy &amp; paste text, use "Remove Formatting" for best layout display. Delete all text here &amp; below if not in use. Leave data table as-is or empty if no data to include. "Jump Break" line is included to prevent Blogger paging issues.<br />
+<br />
+<b>Product data</b> - Edit currency symbol, price, product status inside the designated box. Edit the product options list to display as product select options, empty this field if not in use. Automate this page by editing the Auto Post Template details before starting to create your default custom product posts.<br />
+<br />
+<b>Product Images</b> - Data table below the Jump Break line is for product images only &amp; text. First image in image data table is the main product image or product thumbnail &amp; set size to "Original". Upload image size @min width 600px. Add/upload images by clicking on a space inside image data table below &amp; click upload image button above &amp; start uploading your product images from PC.<br />
+<br />
+More text &amp; images can be added after "Jump Break". Images entered outside image data table (below) will not group.<br />
+<br />
+<table border="1" cellpadding="8" class="product-data" rules="all">
+  <tbody>
+<tr><td class="item_price">$ 32.00</td></tr>
+<tr class="label-add"><td><label>Qty:</label>
+      <input class="item_quantity form-control" size="1" type="text" value="1" />
+      <a class="item_add btn btn-primary" href="javascript:;">Add to Cart</a>
+    </td>
+</tr>
+</tbody>
+</table>
+<!--more--><table border="1" cellpadding="8" class="product-thumbnail" rules="all">
+  <tbody>
+<tr>
+      <td><div class="separator" style="clear: both; text-align: center;">
+<a href="http://4.bp.blogspot.com/-kJ3Ob6f1cgI/VH0hyOHlDaI/AAAAAAAAMvw/20BmxIa6eaY/s1600/GrassGreen_W_B.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://4.bp.blogspot.com/-kJ3Ob6f1cgI/VH0hyOHlDaI/AAAAAAAAMvw/20BmxIa6eaY/s1600/GrassGreen_W_B.jpg" /></a>
+        </div>
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://3.bp.blogspot.com/-3RPbDZ_GGiI/VDpezDK3z7I/AAAAAAAAMUs/bdtOFg15NL0/s1600/GrassGreen_M_B.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="200" src="https://3.bp.blogspot.com/-3RPbDZ_GGiI/VDpezDK3z7I/AAAAAAAAMUs/bdtOFg15NL0/s200/GrassGreen_M_B.jpg" width="128" /></a></div>
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://2.bp.blogspot.com/-zidcGVC41ak/VDpezKz2awI/AAAAAAAAMU4/EPjS-Yp_KKs/s1600/GrassGreen_M_S.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="200" src="https://2.bp.blogspot.com/-zidcGVC41ak/VDpezKz2awI/AAAAAAAAMU4/EPjS-Yp_KKs/s200/GrassGreen_M_S.jpg" width="88" /></a></div>
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://3.bp.blogspot.com/-8IdFwTQY81M/VDpmfEYziDI/AAAAAAAAMVY/xKoJZ73Z7rs/s1600/_DarkChocolate__________________M_F.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="200" src="https://3.bp.blogspot.com/-8IdFwTQY81M/VDpmfEYziDI/AAAAAAAAMVY/xKoJZ73Z7rs/s200/_DarkChocolate__________________M_F.jpg" width="139" /></a></div>
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://4.bp.blogspot.com/-8MRRt25wlBY/VDpmfi_zhHI/AAAAAAAAMVc/tm4AWNoUsGg/s1600/DarkChocolate_M_B.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="200" src="https://4.bp.blogspot.com/-8MRRt25wlBY/VDpmfi_zhHI/AAAAAAAAMVc/tm4AWNoUsGg/s200/DarkChocolate_M_B.jpg" width="124" /></a></div>
+</td>
+    </tr>
+</tbody>
+</table>
+<br />
+<b>Labels for product categorization</b> - Before publishing, use Labels to categorize your product pages. For enhanced search results, add meta description at Search Description at the editor sidebar.<br />
+<br />
+<b>Comments/reviews</b> - To remove/not display comments tick/select Don't Allow under the Options &gt; Reader Comments link.<br />
+<br />

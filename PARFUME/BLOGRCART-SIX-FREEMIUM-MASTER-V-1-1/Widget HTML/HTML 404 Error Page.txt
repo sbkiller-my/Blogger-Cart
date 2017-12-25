@@ -1,0 +1,15 @@
+<br />
+<div id="error-page" class="text-center well">
+<h1>
+<i class="fa fa-warning fa-fw"></i> 
+Page Not Found &mdash; 
+<span class="small">
+We're sorry. 
+</span>
+</h1>
+<p class="lead">
+The page you are looking for must have been moved.
+<br />
+Please use our <i class="fa fa-bars"></i> menu or continue <i class="fa fa-search"></i> search at our site.
+</p>
+</div>

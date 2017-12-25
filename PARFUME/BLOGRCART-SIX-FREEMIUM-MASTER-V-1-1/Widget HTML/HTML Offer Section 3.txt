@@ -1,0 +1,13 @@
+<div class="text-center">
+<br />
+<h2 class="h1">
+Dynamic Homepage Contents
+</h2>
+<p class="lead" style="width:80%;margin:0 auto; ">
+Display unlimited products by category (Label) with awesome touch/swipe/mouse enabled image carousel &amp; use various layout presets &mdash; without coding!
+</p>
+<br />
+<a class="btn btn-outline-warning btn-lg" href="/"><b>Learn How...</b></a>
+<br />
+<br />
+</div>
